@@ -518,7 +518,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.681, y: -114}
+  m_AnchoredPosition: {x: 15.682, y: -166}
   m_SizeDelta: {x: 295.88, y: 42.7353}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &901108033
@@ -651,8 +651,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000076294, y: 0.0000083447}
-  m_SizeDelta: {x: 264.5204, y: 42.7353}
+  m_AnchoredPosition: {x: 15.681, y: -9.7198}
+  m_SizeDelta: {x: 295.88, y: 62.1748}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1137357162
 MonoBehaviour:
@@ -857,8 +857,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10.6157, y: 98.330475}
-  m_SizeDelta: {x: 511.8332, y: 99.76}
+  m_AnchoredPosition: {x: 3.4879, y: 114.5301}
+  m_SizeDelta: {x: 526.0889, y: 132.1592}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1557420624
 MonoBehaviour:
@@ -893,7 +893,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Hello There, Welcome to The Room. I'm sure you have many questions.
+  m_Text: You wake up in a dark, damp room, and you see some sunlight shining through
+    a little hole in the ceiling. You look around and see that the room you're in
+    is totally destroyed. Do you
 --- !u!222 &1557420625
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -937,7 +939,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 10.3677}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1590842919
 MonoBehaviour:
@@ -972,7 +974,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Where am I?
+  m_Text: Try to open the door to see what lurks behind it.
 --- !u!222 &1590842920
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1017,7 +1019,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.6815, y: -54}
+  m_AnchoredPosition: {x: 15.684, y: -103}
   m_SizeDelta: {x: 295.8834, y: 51.6962}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1774607147
